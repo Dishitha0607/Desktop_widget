@@ -38,6 +38,8 @@ A cute cozy desktop widget built with **React + Electron** featuring sticky note
 - CSS
 
 ---
+![App Screenshot](https://github.com/Dishitha0607/Desktop_widget/blob/0e54614475f1f76595535f8f1da512f93b62e3fe/Screenshot%202026-05-24%20120256.png)
+---
 
 ## 📂 Folder Structure
 
